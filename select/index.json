@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "銃声と怒号",
+  "base_artist": "Half time Old",
+  "createdAt": "2025-12-30T15:56:30.973165Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銃声と怒号",
+      "artist": "Half time old",
+      "has_synced": false,
+      "path": "select/pl_01_銃声と怒号_Half_time_old.txt"
+    }
+  ]
+}
